@@ -9,13 +9,13 @@ existían.
 
 | Página | Para qué |
 |---|---|
-| `sms.html` | Divulgación del programa de SMS. **Es la que revisa la operadora.** |
-| `privacy.html` | Política de privacidad |
-| `terms.html` | Términos del servicio |
+| `sms/index.html` | Divulgación del programa de SMS. **Es la que revisa la operadora.** |
+| `privacy/index.html` | Política de privacidad |
+| `terms/index.html` | Términos del servicio |
 
 Sitio estático, sin build. Se publica con GitHub Pages desde `main`.
 
-## Si editas `sms.html`
+## Si editas `sms/index.html`
 
 Mantén estos cinco elementos o la campaña volverá a caer:
 
