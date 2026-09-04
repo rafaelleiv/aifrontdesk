@@ -30,3 +30,7 @@ nav.footer {
 .card { border: 1px solid var(--line); border-radius: .6rem; padding: 1rem 1.25rem; margin: .75rem 0; }
 .card h3 { margin: 0 0 .25rem; font-size: 1rem; }
 .card p { margin: 0; color: var(--muted); font-size: .925rem; }
+.cta { border-color: var(--accent); }
+.cta h3 { font-size: 1.1rem; }
+.cta p { color: var(--fg); font-size: 1rem; }
+.cta p + p { margin-top: .5rem; }
